@@ -1,18 +1,5 @@
 /**
- * COPYRIGHT (C) 2015 ZIGABYTE CORPORATION. ALL RIGHTS RESERVED.
- *
- * CONFIDENTIAL AND PROPRIETARY
- *
- * 		This file is an unpublished Trade Secret of Zigabyte Corporation.
- * 		Theft or misappropriation of Trade Secrets is a federal crime prosecutable
- * 		under the U.S. Industrial Espionage Act of 1996, 18 U.S.C. §§ 1831-1839;
- * 		it is also a crime in all World Trade Organization member countries.
- *
- * NON-DISCLOSURE AGREEMENT
- *
- * 		If you received a copy of this file in order to perform a work for hire, you agree to delete
- * 		all copies of this and other received files as soon as the work is no longer in progress.
- *		Opening of this file constitutes acceptance of the agreement for all files in this project.
+ * COPYRIGHT (C) 2015 ZIGABYTE CORPORATION. LICENSE: GPLv3
  */
 
 package com.example;
