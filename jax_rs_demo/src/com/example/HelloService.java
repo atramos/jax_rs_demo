@@ -24,8 +24,6 @@ import javax.ws.rs.Produces;
 import javax.ws.rs.core.MediaType;
 import javax.ws.rs.core.Response;
 
-import com.ctc.cma.UnitInfoClassifier;
-
 // TEST: http://localhost:8080/jax_rs_demo/test/hello/world
 
 @Path("/test")
